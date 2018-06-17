@@ -1,0 +1,19 @@
+{
+    "name": "connexus/api",
+    "discription": "Api of connexus",
+    "authors": [
+        {
+            "name": "Gean Pedro da Silva",
+            "email": "geanpn@gmail.com"
+        }
+    ],
+    "type": "package",
+    "license": "MIT",
+    
+	"required": {
+        "slim/slim": "*"
+    },
+    "require": {
+        "slim/slim": "3.0"
+    }
+}
